@@ -13,10 +13,17 @@ date_picker = driver.find_element(By.CLASS_NAME, 'fc-goToDate-button').click()
 
 date_current = driver.find_element(By.CLASS_NAME, 'datepicker-switch').click()
 
-month_picker = driver.find_element(By.XPATH, '//span[@class="month" and text()="Nov"]').click()
+month_picker = driver.find_elements(By.XPATH, '//span[@class="month" and text()="Nov"]').click()
 
-date_today = driver.find_element(By.XPATH, '//table[@class="table-condensed"]/tbody/tr/td[@class="day" and text()="1"]')
+date_today = driver.find_elements(By.XPATH, '//table[@class="table-condensed"]/tbody/tr/td[@class="day" and text()="1"]')
 
 print(date_today.get_attribute('data-date'))
+
+date_today.click()
+
+all_rooms = driver.find_elements(By.XPATH, '//span[@class="fc-cell-text"]')
+
+for room in all_rooms:
+    print(room.text)
 
 driver.quit()
