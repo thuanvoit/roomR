@@ -1,20 +1,10 @@
-8:00am Wednesday, November 3, 2021 - N512 - Available
-8:30am Wednesday, November 3, 2021 - N512 - Available
-9:00am Wednesday, November 3, 2021 - N512 - Available
-9:30am Wednesday, November 3, 2021 - N512 - Available
-10:00am Wednesday, November 3, 2021 - N512 - Available
-10:30am Wednesday, November 3, 2021 - N512 - Available
-11:00am Wednesday, November 3, 2021 - N512 - Available
-11:30am Wednesday, November 3, 2021 - N512 - Available
 [12:00pm not available]
 [12:30pm not available]
-11:00pm Wednesday, November 3, 2021 - N512 - Available
-11:30pm Wednesday, November 3, 2021 - N512 - Available
-[2:00pm not available]
-[2:30pm not available]
-3:00pm Wednesday, November 3, 2021 - N512 - Available
-3:30pm Wednesday, November 3, 2021 - N512 - Available
-4:00pm Wednesday, November 3, 2021 - N512 - Available
-4:30pm Wednesday, November 3, 2021 - N512 - Available
-5:00pm Wednesday, November 3, 2021 - N512 - Available
-5:30pm Wednesday, November 3, 2021 - N512 - Available
+[1:00pm not available]
+1:30pm Tuesday, November 16, 2021 - N518 - Available - <selenium.webdriver.remote.webelement.WebElement (session="3d804444121aa3432366852a53e386a2", element="1ae2a007-3241-41bb-b70f-44e72c9a17d6")>
+12:00pm Tuesday, November 16, 2021 - N518 - Available - <selenium.webdriver.remote.webelement.WebElement (session="3d804444121aa3432366852a53e386a2", element="f5a438bb-154e-4032-939d-98a347367089")>
+12:30pm Tuesday, November 16, 2021 - N518 - Available - <selenium.webdriver.remote.webelement.WebElement (session="3d804444121aa3432366852a53e386a2", element="6cedb187-570c-4361-bb7f-2b3b839d86fd")>
+3:00pm Tuesday, November 16, 2021 - N518 - Available - <selenium.webdriver.remote.webelement.WebElement (session="3d804444121aa3432366852a53e386a2", element="91775f8b-8684-4471-a6b8-625fc640bc68")>
+3:30pm Tuesday, November 16, 2021 - N518 - Available - <selenium.webdriver.remote.webelement.WebElement (session="3d804444121aa3432366852a53e386a2", element="f3d73ae5-386b-4de8-baad-89a8947787a7")>
+4:00pm Tuesday, November 16, 2021 - N518 - Available - <selenium.webdriver.remote.webelement.WebElement (session="3d804444121aa3432366852a53e386a2", element="181d7cbc-7fb9-4fe3-b26e-629bedabf002")>
+4:30pm Tuesday, November 16, 2021 - N518 - Available - <selenium.webdriver.remote.webelement.WebElement (session="3d804444121aa3432366852a53e386a2", element="96dc4618-a0c4-4c91-bc7f-d77b7540c1f8")>
